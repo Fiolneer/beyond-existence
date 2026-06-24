@@ -6,11 +6,6 @@ header {
     text-align: center;
 }
 
-@font-face {
-    font-family: "Cinzel";
-    src: url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap");
-}
-
 body {
     background-color: #1b1b1b;
     color: white;
