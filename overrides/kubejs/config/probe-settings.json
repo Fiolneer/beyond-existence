@@ -1,0 +1,10 @@
+{
+    "probejs.newGame": false,
+    "probejs.complete": true,
+    "probejs.hintsForLLM": true,
+    "probejs.fullScanMods": [
+        "minecraft",
+        "kubejs",
+        "neoforge"
+    ]
+}
